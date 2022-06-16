@@ -1,0 +1,13 @@
+{
+	"manifest_version": 1,
+	"id": "0872EDA4-1DC4-4EC5-838A-F6FEA3CBD8DF",
+	"app_min_version": "2.8",
+	"version": "1.0.0",
+	"name": "Code Block Copy",
+	"description": "Adds a copy button to code blocks",
+	"author": "Yohan Belval",
+	"homepage_url": "https://github.com/yohanb/copy-code-joplin-plugin",
+	"repository_url": "https://github.com/yohanb/copy-code-joplin-plugin",
+	"keywords": [],
+	"categories": []
+}
